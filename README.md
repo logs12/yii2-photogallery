@@ -8,7 +8,7 @@ Yii 2 Basic Project - Books
 2. Start command:
 
 ```html
-git clone git@github.com:logs12/book.git
+git clone git@github.com:logs12/yii2-photogallery.git
 yii migrate
 ```
 3. Update settings in config/db.php
